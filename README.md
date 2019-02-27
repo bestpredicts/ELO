@@ -10,8 +10,9 @@ stacking: lb 3.669  pb 3.601
 
 
 features: 
-1agg features  
-2date features  
-3counter vector features  
-4.nn features  
-5.word2vec features  
+1 agg features  
+2 +-*/ new agg features and history agg faeatures  
+3 date features  
+4 counter vector features  
+5 nn features  
+6 word2vec features  
